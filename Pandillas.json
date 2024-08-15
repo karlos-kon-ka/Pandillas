@@ -1,0 +1,104 @@
+[
+    {
+      "nombre": "MS-13",
+      "pais": "Estados Unidos",
+      "descripcion": "La Mara Salvatrucha (MS-13) se originó en Los Ángeles, California, en la década de 1980 por inmigrantes salvadoreños. Se ha expandido por América Central y el sur de los Estados Unidos, siendo conocida por su extrema violencia y crímenes.",
+      "img": "/img/ms.jpg",
+      "nacion": "Salvadoreños",
+      "lider": "No se conoce un líder específico, ya que está compuesto por múltiples células.",
+      "ataque_conocido": "Masacre de La Libertad en El Salvador (2015), donde 22 personas fueron asesinadas en un ataque brutal.",
+      "colores_asociados": ["Azul", "Rojo"]
+    },
+    {
+      "nombre": "Latin Kings",
+      "pais": "Estados Unidos",
+      "descripcion": "Los Latin Kings se originaron en Chicago en la década de 1950. Esta pandilla tiene una presencia significativa en los Estados Unidos y América Latina, y es conocida por su estructura jerárquica y su enfoque en la protección de su comunidad.",
+      "img": "img/latins.webp",
+      "nacion": "Latinoamericanos",
+      "lider": "No se conoce un líder específico, ya que opera en diferentes regiones.",
+      "ataque_conocido": "Enfrentamientos con la pandilla rival de los Gangster Disciples, que han resultado en numerosas muertes y violencia en barrios de Chicago.",
+      "colores_asociados": ["Amarillo", "Negro"]
+    },
+    {
+      "nombre": "Yakuza",
+      "pais": "Japón",
+      "descripcion": "La Yakuza es una organización criminal japonesa con raíces que se remontan a la época feudal de Japón. Se involucra en diversas actividades criminales, incluyendo el tráfico de drogas y el crimen organizado.",
+      "img": "img/yaku.avif",
+      "nacion": "Japoneses",
+      "lider": "No tiene un único líder; varios grupos y líderes operan bajo la organización general.",
+      "ataque_conocido": "El ataque a la sede del grupo rival, la Inagawa-kai, en 2017, que resultó en múltiples asesinatos.",
+      "colores_asociados": ["Negro", "Rojo"]
+    },
+    {
+        "nombre": "The 27s",
+        "pais": "Sudáfrica",
+        "descripcion": "Los 27s son una de las pandillas más temidas en Sudáfrica, fundados en la década de 1980. Originalmente un grupo de prisioneros, se han expandido fuera de las cárceles para involucrarse en actividades criminales violentas como tráfico de drogas, extorsión y asesinatos.",
+        "img": "img/afric.jpg",
+        "nacion": "Sudafricanos",
+        "lider": "No tiene un líder único conocido; la pandilla opera a través de una red descentralizada.",
+        "ataque_conocido": "Conflictos violentos con otras pandillas como los 'The 28s' en las cárceles, resultando en numerosos enfrentamientos y muertes.",
+        "colores_asociados": ["Negro", "Blanco"]
+      },
+      
+    {
+      "nombre": "Triadas Chinas",
+      "pais": "China",
+      "descripcion": "Las Triadas son organizaciones criminales chinas con una historia que se remonta a la dinastía Qing. Son conocidas por sus actividades en el tráfico de drogas, extorsión y corrupción.",
+      "img": "img/china.jpg",
+      "nacion": "Chinos",
+      "lider": "No tiene un líder único; varios grupos y líderes operan bajo la organización general.",
+      "ataque_conocido": "La masacre de la familia de Hong Kong en 2015, un ataque brutal que involucró a varias víctimas.",
+      "colores_asociados": ["Rojo", "Negro"]
+    },
+    {
+      "nombre": "Los Zetas",
+      "pais": "México",
+      "descripcion": "Los Zetas se formaron en México por ex soldados de las fuerzas especiales y rápidamente se convirtieron en uno de los carteles de drogas más violentos del país. Son conocidos por su brutalidad y tácticas militares.",
+      "img": "img/z.avif",
+      "nacion": "Mexicanos",
+      "lider": "Miguel Ángel Treviño Morales (conocido como Z-40), capturado en 2013.",
+      "ataque_conocido": "El ataque en San Fernando en 2011, donde se encontraron 193 cuerpos en una fosa común.",
+      "colores_asociados": ["Negro", "Azul"]
+    },
+    {
+      "nombre": "Cártel de Sinaloa",
+      "pais": "México",
+      "descripcion": "El Cártel de Sinaloa, fundado por Joaquín 'El Chapo' Guzmán, es uno de los grupos de narcotráfico más poderosos y violentos del mundo, con influencia global.",
+      "img": "img/sinaloa.jpg",
+      "nacion": "Mexicanos",
+      "lider": "Joaquín 'El Chapo' Guzmán (actualmente encarcelado).",
+      "ataque_conocido": "El ataque en el barrio de Culiacán en 2019, donde se produjo un enfrentamiento armado con fuerzas de seguridad.",
+      "colores_asociados": ["Verde", "Blanco"]
+    },
+    {
+      "nombre": "Solntsevskaya Bratva",
+      "pais": "Rusia",
+      "descripcion": "La Solntsevskaya Bratva es una de las organizaciones criminales más poderosas en Rusia. Fundada en Moscú en la década de 1990, se involucra en actividades criminales como el tráfico de drogas, la extorsión y el crimen organizado.",
+      "img": "img/ru.jpg",
+      "nacion": "Ruso",
+      "lider": "No tiene un líder único; se compone de múltiples facciones y líderes.",
+      "ataque_conocido": "El asesinato del jefe de la pandilla rival en 1998, que desató una serie de enfrentamientos violentos.",
+      "colores_asociados": ["Negro", "Rojo"]
+    },
+    {
+      "nombre": "Hezbollah",
+      "pais": "Líbano",
+      "descripcion": "Hezbollah es una organización militante y política chií basada en Líbano, conocida por su resistencia contra Israel y su implicación en numerosos conflictos regionales. Además de su rol político, está involucrada en actividades criminales y terrorismo.",
+      "img": "img/haz.webp",
+      "nacion": "Libaneses",
+      "lider": "Hassan Nasrallah (Secretario General).",
+      "ataque_conocido": "El ataque suicida en el cuartel de marines en Beirut en 1983, que resultó en la muerte de 241 soldados estadounidenses.",
+      "colores_asociados": ["Verde", "Amarillo"]
+    },
+    {
+      "nombre": "Al Qaeda",
+      "pais": "Internacional",
+      "descripcion": "Al Qaeda es una organización terrorista yihadista fundada por Osama bin Laden en la década de 1980. Está involucrada en múltiples actos de terrorismo global y tiene células en varios países.",
+      "img": "img/al.jpeg",
+      "nacion": "Internacional",
+      "lider": "Osama bin Laden (fallecido); actualmente dirigida por Ayman al-Zawahiri hasta su muerte en 2022.",
+      "ataque_conocido": "Los ataques del 11 de septiembre de 2001 en los Estados Unidos, que resultaron en la muerte de aproximadamente 3,000 personas.",
+      "colores_asociados": ["Negro", "Blanco"]
+    }
+  ]
+  

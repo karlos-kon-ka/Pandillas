@@ -1,0 +1,58 @@
+[
+    {
+      "pandilla": "MS-13",
+      "filicion": "No hay una afiliación política formal, pero la pandilla ha tenido vínculos con políticos corruptos y autoridades locales en América Central. Reciben apoyo de políticos corruptos para protección y facilidades.",
+      "resolucion": "Las autoridades de El Salvador y los EE.UU. han lanzado operaciones para desmantelar la MS-13, incluyendo operaciones militares y policiacas. A pesar de los esfuerzos, la pandilla sigue activa y en conflicto con otros grupos y las autoridades.",
+      "dinero_destino": "El dinero generado por la MS-13 se utiliza para financiar operaciones criminales, sobornos a políticos corruptos, y enriquecimiento personal de los líderes de la pandilla."
+    },
+    {
+      "pandilla": "Latin Kings",
+      "filicion": "Tiene vínculos con algunos políticos locales en áreas con alta población latina en los EE.UU., aunque no tienen una afiliación política formal. También han tenido apoyo en el pasado de figuras políticas corruptas.",
+      "resolucion": "Las autoridades han llevado a cabo múltiples redadas y arrestos, debilitando su influencia en algunos lugares pero la pandilla sigue operando en varios estados de EE.UU. y América Latina.",
+      "dinero_destino": "Los fondos obtenidos se destinan a financiar actividades criminales, sobornos a funcionarios y apoyo a miembros de la pandilla en prisión."
+    },
+    {
+      "pandilla": "Yakuza",
+      "filicion": "La Yakuza tiene conexiones con políticos y empresarios corruptos en Japón. Históricamente han tenido influencias en el ámbito político y económico japonés.",
+      "resolucion": "A pesar de las estrictas leyes contra el crimen organizado en Japón y las acciones de la policía, la Yakuza sigue operando. Su influencia ha disminuido, pero aún mantiene una red significativa.",
+      "dinero_destino": "El dinero se utiliza para actividades ilegales, sobornos, y enriquecimiento personal de los líderes. Parte del dinero también se destina a inversiones legales para blanquear fondos."
+    },
+    
+    {
+      "pandilla": "Triadas Chinas",
+      "filicion": "Están asociadas con algunos políticos corruptos y funcionarios en China y Hong Kong. También tienen relaciones con grupos criminales globales.",
+      "resolucion": "Las autoridades chinas y de Hong Kong han llevado a cabo numerosas operaciones contra las Triadas, pero continúan siendo influyentes en el crimen organizado a nivel internacional.",
+      "dinero_destino": "Los fondos se destinan a operaciones criminales, sobornos a funcionarios y a inversiones para blanquear dinero en el mercado global."
+    },
+    {
+      "pandilla": "Los Zetas",
+      "filicion": "Están vinculados con otros carteles de drogas y grupos criminales. Han tenido apoyo de políticos corruptos en México que les ofrecen protección.",
+      "resolucion": "Las capturas y muertes de líderes han debilitado la estructura de Los Zetas, pero la pandilla sigue operando en algunas regiones. Las autoridades mexicanas y estadounidenses continúan combatiéndolos.",
+      "dinero_destino": "El dinero se usa para financiar operaciones delictivas, sobornos y enriquecimiento personal de los líderes. También invierten en actividades legales para ocultar sus ganancias."
+    },
+    {
+      "pandilla": "Cártel de Sinaloa",
+      "filicion": "Tienen conexiones con políticos corruptos y algunas autoridades en México que les brindan protección. Además, mantienen relaciones con otros carteles y grupos criminales internacionales.",
+      "resolucion": "El arresto de Joaquín 'El Chapo' Guzmán ha debilitado su liderazgo, pero el cártel sigue operando. Las autoridades continúan sus esfuerzos para desmantelar la organización.",
+      "dinero_destino": "Los fondos se destinan a operaciones criminales, sobornos y a financiar actividades legales para blanquear dinero. Parte del dinero también se usa para enriquecer a los líderes del cártel."
+    },
+    {
+      "pandilla": "Solntsevskaya Bratva",
+      "filicion": "Vinculada con políticos corruptos y sectores de la economía en Rusia. También tienen conexiones con organizaciones criminales globales.",
+      "resolucion": "Las autoridades rusas han tomado medidas enérgicas contra la Solntsevskaya Bratva, pero sigue siendo una de las organizaciones criminales más poderosas en Rusia. La lucha continúa.",
+      "dinero_destino": "El dinero obtenido se usa para financiar actividades delictivas, sobornos, y se invierte en negocios legales para blanquear las ganancias."
+    },
+    {
+      "pandilla": "Hezbollah",
+      "filicion": "Apoyo de Irán y conexiones con algunos políticos en Líbano que les proporcionan soporte político y financiero.",
+      "resolucion": "Hezbollah sigue siendo una fuerza significativa en Líbano y la región. Aunque enfrentan presión internacional, su influencia y operaciones permanecen activas.",
+      "dinero_destino": "Los fondos se utilizan para financiar actividades militares, operaciones de terrorismo y corrupción. También reciben apoyo financiero de entidades extranjeras y simpatizantes."
+    },
+    {
+      "pandilla": "Al Qaeda",
+      "filicion": "Apoyo de grupos extremistas y algunos países con agendas antagónicas a Occidente. Han recibido apoyo financiero de simpatizantes y entidades en varios países.",
+      "resolucion": "Aunque la muerte de Osama bin Laden y la captura de otros líderes han reducido su capacidad, Al Qaeda sigue operando a través de células en diferentes países. La lucha global contra el terrorismo continúa.",
+      "dinero_destino": "El dinero se utiliza para financiar operaciones terroristas, reclutamiento y propaganda. Parte también se utiliza para apoyar a miembros y sus familias en áreas de conflicto."
+    }
+  ]
+  
